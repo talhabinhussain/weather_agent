@@ -1,6 +1,6 @@
 # Weather Agent
 
-This Weather agent is make to fetch real time weather updates and then send it to the user Gmail using user email id
+This Weather agent is make to fetch real time weather updates and then send it to the user Gmail using the user's email address.
 
 ## Commponents of Agent
 
