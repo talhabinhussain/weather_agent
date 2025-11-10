@@ -2,7 +2,7 @@
 
 This Weather agent is make to fetch real time weather updates and then send it to the user Gmail using the user's email address.
 
-## Commponents of Agent
+## Components of Agent
 
 1. Agent is simply connected by the gemini llm model 2.5 flash.
 
